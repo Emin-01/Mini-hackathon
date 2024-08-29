@@ -11,11 +11,11 @@
 </head>
 <body>
 
-    <div class="topnav">
-        <a href="../Home/homepage.html">Home</a>
-        <a class="active" href="aanmeld.php">Aanmelden</a>
-        <a href="#gasten">Gasten</a>
-    </div>
+<div class="topnav">
+        <a href="../Home/homepage.php" href="../Home/homepage.php">Home</a>
+        <a href="../Aanmelden/aanmeld.php">Aanmelden</a>
+        <a href="../gastenlijst/lijst.php">Gasten</a>
+      </div>
 
     <div class="container">
         <div class="content">

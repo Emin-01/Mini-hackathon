@@ -6,21 +6,20 @@
     <title>Club</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
 <body>
 
     <div class="topnav">
-        <a class="active" href="homepage.html">Home</a>
+        <a class="active" href="../Home/homepage.php">Home</a>
         <a href="../Aanmelden/aanmeld.php">Aanmelden</a>
-        <a href="#gasten">Gasten</a>
-      </div>
+        <a href="../gastenlijst/lijst.php">Gasten</a>
+    </div>
 
     <video autoplay loop muted plays-inline class="background-clip">
         <source src="../stockfootage.mp4" type="video/mp4">
     </video>  
-
 
     <div class="container">
         <div class="content">
@@ -30,7 +29,7 @@
     </div>
 
     <div class="second-container">
-        <div class="content2">'
+        <div class="content2">
             <p>Voel de bass. Laat je meevoeren door de beats.<br><br>
 
                 Sluit je aan bij duizenden andere liefhebbers voor een nacht vol pulserende energie, adembenemende lichtshows en de beste DJ’s die de techno scene te bieden heeft. Dit is dé kans om deel uit te maken van een episch feest waar de muziek en vibes samenkomen.<br><br>
