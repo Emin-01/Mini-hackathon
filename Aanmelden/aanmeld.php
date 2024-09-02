@@ -15,7 +15,7 @@
 
 <div class="topnav">
         <img src="../Tech.png" class="logo" alt="">
-        <a class="active" href="../Home/homepage.html">Home</a>
+        <a class="active" href="../Home/homepage.php">Home</a>
         <a href="../Aanmelden/aanmeld.php">Aanmelden</a>
         <a href="../Gasten/gasten.php">Gasten</a>
       </div>

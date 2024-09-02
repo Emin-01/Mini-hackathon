@@ -14,15 +14,14 @@
 
     <div class="topnav">
         <img src="../Tech.png" class="logo" alt="">
-        <a class="active" href="homepage.html">Home</a>
+        <a class="active" href="homepage.php">Home</a>
         <a href="../Aanmelden/aanmeld.php">Aanmelden</a>
-        <a href="#gasten">Gasten</a>
-      </div>
+        <a href="../gastenlijst/lijst.php">Gasten</a>
+    </div>
 
     <video autoplay loop muted plays-inline class="background-clip">
         <source src="../stockfootage.mp4" type="video/mp4">
     </video>  
-
 
     <div class="container">
         <div class="content">

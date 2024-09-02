@@ -15,7 +15,7 @@
 <footer>
         <div class="footerContainer">
             <div class="footerNav">
-                <ul><li><a href="../Home/homepage.html">Home</a></li>
+                <ul><li><a href="../Home/homepage.php">Home</a></li>
                     <li><a href="../Aanmelden/aanmeld.php">Aanmelden</a></li>
                     <li><a href="../Gasten/gasten.php">Gasten</a></li>
                 </ul>
