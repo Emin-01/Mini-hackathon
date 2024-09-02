@@ -5,20 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aanmelden</title>
     <link rel="stylesheet" href="../css/aanmeld.css">
+    <link rel="stylesheet" href="../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/footer.css">
 </head>
 <body>
 
-    <div class="topnav">
-        <a href="../Home/homepage.html">Home</a>
-        <a class="active" href="aanmeld.php">Aanmelden</a>
-        <a href="#gasten">Gasten</a>
-    </div>
+<div class="topnav">
+        <img src="../Tech.png" class="logo" alt="">
+        <a class="active" href="../Home/homepage.html">Home</a>
+        <a href="../Aanmelden/aanmeld.php">Aanmelden</a>
+        <a href="../Gasten/gasten.php">Gasten</a>
+      </div>
 
     <div class="container">
-        <div class="content">
+        <div class="acontent">
             <h1>Meld je aan voor het technofeest!</h1>
             <?php
                 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -70,5 +73,19 @@
         </div>
     </div>
 
+    <footer>
+        <div class="footerContainer">
+            <div class="footerNav">
+                <ul><li><a href="../Home/homepage.html">Home</a></li>
+                    <li><a href="../Aanmelden/aanmeld.php">Aanmelden</a></li>
+                    <li><a href="../Gasten/gasten.php">Gasten</a></li>
+                </ul>
+            </div>
+            
+        </div>
+        <div class="footerBottom">
+            <p>Copyright &copy;2024; Designed by <span class="designer">TechNeon</span></p>
+        </div>
+    </footer>
 </body>
 </html>
